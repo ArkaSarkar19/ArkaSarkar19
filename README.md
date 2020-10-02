@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 
 ## Technology Stack
 
-[![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/ArkaSarkar19/)](https://github.com/itissandeep98/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ArkaSarkar19&show_icons=true">
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
