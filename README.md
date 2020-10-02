@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&layout=compact" alt="languages">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:itissandep98@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/arka-sarkar-6068731b1/)](https://www.linkedin.com/in/sandeep-kumar-singh-449910178/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:arkasarkar080@gmail.com)
 
 
 ## Technology Stack
@@ -34,18 +34,18 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=itissandeep98&show_icons=true">
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
-[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
-[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
-[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
+[![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
 
-[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/itissandeep98/)](https://github.com/itissandeep98/)
+[![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
