@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/arka-sarkar-6068731b1/)](https://www.linkedin.com/in/arka-sarkar-6068731b1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:arkasarkar080@gmail.com)
-
+[![Twitter](http://i.imgur.com/wWzX9uB.png])](https://twitter.com/ArkaSar35105056)
 
 ## Technology Stack
 
