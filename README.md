@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## @ArkaSarkar19
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=itissandeep98&layout=compact" alt="languages">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaSarkar19&layout=compact" alt="languages">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/arka-sarkar-6068731b1/)](https://www.linkedin.com/in/arka-sarkar-6068731b1/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=up-square&logo=gmail&logoColor=white&link=mailto:itissandep98@gmail.com)](mailto:arkasarkar080@gmail.com)
