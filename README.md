@@ -24,6 +24,22 @@ Here are some ideas to get you started:
 
 ## Technology Stack
 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/ArkaSarkar19/)
+
+
 [![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-green?style=flat-square&logo=javascript&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![json](https://img.shields.io/badge/-JSON-grey?style=flat-square&logo=json&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
@@ -40,12 +56,9 @@ Here are some ideas to get you started:
 
 [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=Arduino&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-
 [![Python3](https://img.shields.io/badge/-Python3-green?style=flat-square&logo=python&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
 [![Javafx](https://img.shields.io/badge/-JavaFX-blue?style=flat-square&logo=java&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
-
-
 [![MySQL](https://img.shields.io/badge/-MySQL-violet?style=flat-square&logo=mysql&link=https://github.com/ArkaSarkar19/)](https://github.com/ArkaSarkar19/)
